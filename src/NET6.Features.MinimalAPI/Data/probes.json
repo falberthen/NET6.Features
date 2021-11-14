@@ -1,0 +1,42 @@
+[
+  {
+    "PlanetID": 1,
+    "Name": "Mercury",
+    "FlybyDate": "1974-03-29"
+  },
+  {
+    "PlanetID": 2,
+    "Name": "Mariner 2",
+    "FlybyDate": "1962-12-14"
+  },
+  {
+    "PlanetID": 3,
+    "Name": "Sputnik 1",
+    "FlybyDate": "1957-10-04"
+  },
+  {
+    "PlanetID": 4,
+    "Name": "Mariner 4",
+    "FlybyDate": "1965-07-15"
+  },
+  {
+    "PlanetID": 5,
+    "Name": "Pioneer 10",
+    "FlybyDate": "1973-12-03"
+  },
+  {
+    "PlanetID": 6,
+    "Name": "Pioneer 11",
+    "FlybyDate": "1979-09-01"
+  },
+  {
+    "PlanetID": 7,
+    "Name": "Voyager 2",
+    "FlybyDate": "1986-01-24"
+  },
+  {
+    "PlanetID": 8,
+    "Name": "Voyager 2",
+    "FlybyDate": "1989-08-25"
+  }
+]
